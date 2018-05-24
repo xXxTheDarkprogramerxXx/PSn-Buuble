@@ -1,0 +1,8 @@
+c:\users\3de echelon\documents\visual studio 2013\Projects\PSn Buuble\PSn Buuble\bin\Debug\PSn Buuble.exe.config
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PSn Buuble\PSn Buuble\bin\Debug\PSn Buuble.exe
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PSn Buuble\PSn Buuble\bin\Debug\PSn Buuble.pdb
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PSn Buuble\PSn Buuble\obj\Debug\PSn Buuble.csprojResolveAssemblyReference.cache
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PSn Buuble\PSn Buuble\obj\Debug\PSn_Buuble.Properties.Resources.resources
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PSn Buuble\PSn Buuble\obj\Debug\PSn Buuble.csproj.GenerateResource.Cache
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PSn Buuble\PSn Buuble\obj\Debug\PSn Buuble.exe
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PSn Buuble\PSn Buuble\obj\Debug\PSn Buuble.pdb
